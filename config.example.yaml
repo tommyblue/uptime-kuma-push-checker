@@ -1,0 +1,11 @@
+checks:
+    -
+        type: smtp
+        host: somehost
+        port: 25
+        push_url: some url
+    -
+        type: smtp
+        host: somehost2
+        port: 465
+        push_url: some url
